@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const noButton = document.getElementById('no');
 
     yesButton.addEventListener('click', () => {
-        window.location.href = 'https://youtu.be/7yW_uJOpxww?si=yLpgSs8TvDQo38kB';
+        window.location.href = 'https://youtu.be/lVSBxYjGLPs?si=kjMwdsON5fylrIpY';
     });
 
     noButton.addEventListener('mouseover', () => {
